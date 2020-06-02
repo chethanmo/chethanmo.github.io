@@ -20,7 +20,7 @@
     position: absolute;
 }
 
-@media (max-width: 1024px){
+@media (min-width: 768px) and (max-width: 1024px){
     body{
         font-size: 4em;
         text-align: center;
